@@ -1,6 +1,6 @@
 
 ## Summarization
-##### This is the result of our projct where we detect a color and highlight them by drawing rectangle around the detected color based on yellow HSV values 
+##### This is the result of our project where the main approach is to detect a color and highlight them by drawing rectangle around the detected color based on HSV values in this case I uses (Yellow): 
 ***lv = [25,150,50] uv = [35,255,255]***
 
 
